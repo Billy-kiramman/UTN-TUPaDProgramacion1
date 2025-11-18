@@ -1,3 +1,4 @@
-notebook,1200,8
-mouse,80,4
-celular,300,10
+notebook,1200.0,8
+mouse,80.0,4
+celular,300.0,10
+tablet,200.0,5
